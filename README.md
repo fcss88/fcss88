@@ -4,5 +4,5 @@
 <img src="https://raw.githubusercontent.com/fcss88/fcss88/refs/heads/main/ua.gif" height="32"/></h3>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=21&letterSpacing=0.2em&duration=1000&pause=500&color=F70000&center=true&vCenter=true&random=true&width=435&lines=Sysadmin;DevOps+engineer;TechOps+engineer;SRE;SecOps+engineer" alt="Typing SVG" /></a>
+<a href="https://fcss88.pp.ua/"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=21&letterSpacing=0.2em&duration=1000&pause=500&color=F70000&center=true&vCenter=true&random=true&width=435&lines=Sysadmin;DevOps+engineer;TechOps+engineer;SRE;SecOps+engineer" alt="Typing SVG" /></a>
 </p>
